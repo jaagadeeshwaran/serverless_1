@@ -9,7 +9,7 @@
   "author": "Julian Pittas <julian.pittas@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.266.1"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {}
 }
